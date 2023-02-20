@@ -1,0 +1,9 @@
+{:paths ["src"]
+ :deps  {clj-commons/aleph {:git/url "https://github.com/clj-commons/aleph"
+                            :git/sha "8a5ec7e6059363c2c30f13c8bce05c7aab01378e"}
+         ;; org.clj-commons/gloss {:mvn/version "0.3.0"}
+         org.clj-commons/gloss {:mvn/version "0.3.1"}
+         ;; org.clj-commons/gloss {:local/root "../gloss/target/gloss-0.3.1-standalone.jar"}
+         org.clojure/core.match {:mvn/version "1.0.1"}
+         org.clojure/data.json {:mvn/version "2.4.0"}
+         org.clj-commons/byte-streams {:mvn/version "0.3.2"}}}
