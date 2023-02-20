@@ -1,0 +1,2 @@
+# protohackers
+I started solving the [protohackers](https://protohackers.com/) challenges to learn some clojure and practice coding. There's not many examples of lower-level networking programming in clojure, so these might be useful basic examples of how to use the [aleph](https://github.com/clj-commons/aleph) [manifold](https://github.com/clj-commons/manifold) and [gloss](https://github.com/clj-commons/gloss) libraries for low-level network protocols
